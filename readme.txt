@@ -9,8 +9,6 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Adds a sharing button for Reddit to your posts
-
 == Description ==
 
 Add your Mailchimp email signup form code in the settings page to easily embed your mailing list signup box.
